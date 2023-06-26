@@ -3,7 +3,7 @@ The Sentiment Analysis project classifies customer reviews as positive, negative
 
 Project Files:
 main.py: Contains the code for data cleaning, preprocessing, data visualization, feature extraction, model building, training, and evaluation.
-\n
+
 FlipkartProductReviews.csv: The dataset file containing customer reviews and sentiment labels.
 
 README.md: Documentation file explaining the project, its purpose, and the steps involved.
@@ -30,5 +30,16 @@ Review: Customer review text.
 Summary: Summary of the review.
 Sentiment: Sentiment label (positive, negative, or neutral).
 
+
+
+
+Contribution Guidelines:
+If you would like to contribute to this project, please follow these guidelines:
+Fork the project repository.
+Create a new branch for your contributions: git checkout -b feature/your-feature
+Make your changes and additions.
+Commit your changes: git commit -m 'Add your message here'
+Push to the branch: git push origin feature/your-feature
+Open a pull request to merge your changes into the main project.
 
 
